@@ -2,7 +2,7 @@
 
 TP Integrador de Aprendizaje Automático · Instituto de Formación Docente y Técnica N.º 57 · Chascomús
 
-**Integrantes:** Enzo Mellado, Gladys González y Lucas Pardo  
+**Integrantes:** Gladys González Enzo Mellado y Lucas Pardo  
 **Curso:** 2.º año de Ciencia de Datos e Inteligencia Artificial
 
 El equipo continúa con tres integrantes, con autorización del docente luego de la baja de un integrante.
